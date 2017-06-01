@@ -19,4 +19,4 @@ A `/source` directory is created in the container, which can be mapped for use w
 
     docker run -v `pwd`:/source pierodibello/pandoc-italian -f markdown -t html5 myfile.md -o myfile.html
 
-More info on Pandoc's [manual](http://pandoc.org/MANUAL.html)
+More info on Pandoc's [manual](http://pandoc.org/MANUAL.html).
